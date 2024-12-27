@@ -1,0 +1,10 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff; /* couleur de fond de votre Navbar */
+    z-index: 10; /* assurez-vous que le z-index est supérieur à d'autres éléments si nécessaire */
+    /* styles supplémentaires selon vos besoins */
+  }
+  
